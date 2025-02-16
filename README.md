@@ -14,5 +14,3 @@ Clone the repository:
 ```bash
 git clone (https://github.com/gokul-19/Data-science-tutor-Ai-.git)
 cd Data-science-tutor-Ai-
-
-
