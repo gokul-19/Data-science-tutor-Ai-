@@ -15,6 +15,4 @@ Clone the repository:
 git clone (https://github.com/gokul-19/Data-science-tutor-Ai-.git)
 cd Data-science-tutor-Ai-
 
-Create a virtual environment and activate it:
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
