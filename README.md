@@ -4,10 +4,10 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
 
 # Features
 
-User-friendly interface to input queries.
-Generates detailed answers to data science-related questions.
-Politely declines to answer questions outside the scope of data science.
-Installation
+###User-friendly interface to input queries.
+###Generates detailed answers to data science-related questions.
+###Politely declines to answer questions outside the scope of data science.
+###Installation
 
 Clone the repository:
 
