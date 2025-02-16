@@ -9,3 +9,8 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
 
 #Politely declines to answer questions outside the scope of data science.
 
+# Installation
+
+1. Clone the repository
+giit clone (https://github.com/gokul-19/Data-science-tutor-Ai-)
+cd your-repo-name
