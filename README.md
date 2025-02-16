@@ -12,6 +12,9 @@ This is a Streamlit application that uses Google's Generative AI to provide answ
 
 Clone the repository:
 ```bash
-git clone https://github.com/gokul-19/Data-science-tutor-Ai-
+git clone (https://github.com/gokul-19/Data-science-tutor-Ai-.git)
 cd Data-science-tutor-Ai-
 
+Create a virtual environment and activate it:
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
