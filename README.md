@@ -1,4 +1,4 @@
-# Data Science Tutor (AI) - README
+# Data Science Tutor (AI) 
 Welcome to the Data Science Tutor (AI) application! This tool is designed to assist users with data science-related queries using a conversational AI model. Below, you'll find instructions on how to set up and use the application.
 
 ## Overview
@@ -55,7 +55,7 @@ Contributions to improve the application are welcome! Feel free to fork the repo
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact [Gokul] at [gorthigokul77@gmail.com].
 
-# Enjoy your journey into data science with the help of AI!
+
 
