@@ -1,8 +1,9 @@
 import streamlit as st
 import google.generativeai as genai
+import os
 
 # Configure API Key
-genai.configure(api_key="AIzaSyA0gFVSeBYBoexZs3BWZNvyiTTU0e8UcDg")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # System Prompt
 sys_prompt = """You are a helpful data science tutor. You can only resolve data science-related queries. 
@@ -21,4 +22,7 @@ user_prompt = st.text_input("Enter your query:")
 # Generate and Display Response
 if st.button("Generate Response") and user_prompt:
     response = model.generate_content(user_prompt)
-    st.markdown(response.text)
+    if hasattr(response, "text"):
+        st.markdown(response.text)
+    else:
+        st.error("Failed to generate a response.")
