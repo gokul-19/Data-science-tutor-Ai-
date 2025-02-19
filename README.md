@@ -48,6 +48,10 @@ Click the "Generate Response" button to receive an AI-generated answer.
 ## System Prompt
 The AI model is initialized with a system prompt that instructs it to act as a helpful data science tutor. It is programmed to handle only data science-related queries and will politely redirect users if they ask unrelated questions.
 
+## Link
+App:https://datasciencetutorai.streamlit.app/
+Linkesln:https://www.linkedin.com/posts/gokul-g-a18887270_automate-python-innomaticsresearchlabs-activity-7296532015556792320-Djx1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJWXPQBEssaKuBLG5eQoGJ11xndczVe35o
+
 ## Contributing
 Contributions to improve the application are welcome! Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
 
