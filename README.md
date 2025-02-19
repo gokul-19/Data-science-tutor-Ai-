@@ -50,7 +50,7 @@ The AI model is initialized with a system prompt that instructs it to act as a h
 
 ## Link
 App:https://datasciencetutorai.streamlit.app/
-Linkesln:https://www.linkedin.com/posts/gokul-g-a18887270_automate-python-innomaticsresearchlabs-activity-7296532015556792320-Djx1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJWXPQBEssaKuBLG5eQoGJ11xndczVe35o
+
 
 ## Contributing
 Contributions to improve the application are welcome! Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
